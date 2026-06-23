@@ -1,3 +1,5 @@
-# git-test
+# git_test
 
 Hello Odin!
+
+`HEAD` points to `main`
